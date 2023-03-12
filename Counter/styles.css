@@ -1,0 +1,30 @@
+body{
+  background-color: hsl(205, 100%, 96%);
+}
+.container{
+  text-align: center;
+}
+h1{
+  font-size: 80px;
+  font-weight: 1rem;
+  color: #222;
+}
+#value {
+  font-size: 80px;
+  font-weight: 1rem;
+}
+.btn{
+  margin: 10px;
+  margin-top: 30px;
+  text-transform: uppercase;
+  letter-spacing:0.1rem;
+  padding: 5px;
+  background-color: transparent;
+  border:2px solid #222;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: #222;
+  color: #fff;
+}
